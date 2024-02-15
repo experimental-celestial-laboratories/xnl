@@ -1,0 +1,27 @@
+{
+	"label": "model",
+	"tooltip": "Made with Blockbench",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [12, 15, 15, 16, 16, 16],
+			"texture": "minecraft:block/red_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 15, 15, 11, 16, 16],
+			"texture": "minecraft:block/red_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 15, 15, 4, 16, 16],
+			"texture": "minecraft:block/red_concrete",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

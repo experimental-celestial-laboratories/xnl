@@ -1,0 +1,17 @@
+{
+	"label": "model",
+	"tooltip": "Made with Blockbench",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [0, 15, 15, 16, 16, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}

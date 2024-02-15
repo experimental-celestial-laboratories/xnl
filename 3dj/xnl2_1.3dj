@@ -1,0 +1,157 @@
+{
+	"label": "model",
+	"tooltip": "Made with Blockbench",
+	"isButton": false,
+	"collideWhenOn": true,
+	"collideWhenOff": true,
+	"lightLevel": 0,
+	"redstoneLevel": 0,
+	"shapesOff": [
+		{
+			"bounds": [11, 0, 15, 15, 1, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [5, 0, 15, 9, 1, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [9, 2, 15, 14, 4, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [10, 1, 15, 15, 2, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 1, 15, 9, 2, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 2, 15, 8, 3, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [3, 3, 15, 8, 4, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [3, 4, 15, 7, 5, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 5, 15, 7, 6, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [3, 6, 15, 6, 8, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [4, 8, 15, 5, 9, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [8, 4, 15, 13, 5, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [8, 5, 15, 12, 6, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [7, 6, 15, 12, 7, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [7, 7, 15, 11, 8, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 8, 15, 11, 9, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [5, 9, 15, 10, 11, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [6, 11, 15, 9, 13, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [7, 13, 15, 8, 14, 16],
+			"texture": "minecraft:block/light_blue_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 4, 15, 1, 6, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 6, 15, 2, 8, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 8, 15, 3, 10, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 10, 15, 4, 11, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 11, 15, 5, 12, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 12, 15, 5, 13, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [1, 13, 15, 6, 14, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 14, 15, 6, 15, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [2, 15, 15, 7, 16, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		},
+		{
+			"bounds": [0, 14, 15, 1, 16, 16],
+			"texture": "minecraft:block/orange_concrete",
+			"tint": "FFFFFF"
+		}
+	],
+	"shapesOn": []
+}
